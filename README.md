@@ -7,7 +7,7 @@ The path of the gereated data file is the path where the LabVIEW code is located
 
 The post-process tool "Data_draw_Cui.m" is written to draw the data in the generated data file. This program decodes the sampling frequency and the number of the Pre-trigger points. Then draw the data from the generated "*.dat" file and plot the profiles. The X-axis is "ms" and the Y-axis is "V".
 
-Copyright (C) 2019  Xiongwei Cui (cuixiongwei@yahoo.com)
+Copyright (C) 2019  Xiongwei Cui (cuixiongwei@yahoo.com).
 
 These two codes or programs have been validated in the study of the article "A Lab-scale Experiment Approach to the Measurement of Wall Pressure from Near-Field under Water Explosions by a Hopkinson bar".
 
