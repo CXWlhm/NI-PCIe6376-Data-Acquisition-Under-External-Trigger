@@ -9,4 +9,6 @@ The post-process tool "Data_draw_Cui.m" is written to draw the data in the gener
 
 Copyright (C) 2019  Xiongwei Cui (cuixiongwei@yahoo.com)
 
+These two codes or programs have been validated in the study of the article "A Lab-scale Experiment Approach to the Measurement of Wall Pressure from Near-Field under Water Explosions by a Hopkinson bar".
+
 This program is free software; you can redistribute it and/or modify it. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITU or FITNESS FOR A PARTICULAR PURPOSE.This program is free software; you can redistribute it and/or modify it. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITU or FITNESS FOR A PARTICULAR PURPOSE.
